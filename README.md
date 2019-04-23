@@ -1,2 +1,0 @@
-# Arc
-Created with CodeSandbox
